@@ -1,0 +1,2 @@
+# soft
+wordpress starter theme
